@@ -16,10 +16,10 @@
             "#8a8a8a"
         ],
         "TEXT_NORMAL": [
-            "#c9c9c9"
+            "#c9c9c9", "#1a1a1a"
         ],
         "TEXT_MUTED": [
-            "#8a8a8a"
+            "#8a8a8a", "#363636"
         ],
         "TEXT_DANGER": [
             "#ff003f"
@@ -40,34 +40,34 @@
             "#616161"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#262626"
+            "#262626", "#d1d1d1"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_ACCENT": [
             "#00ce48"
         ],
         "BACKGROUND_FLOATING": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#0b632a"
@@ -76,19 +76,19 @@
             "#00ce48"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#262626"
+            "#262626", "#d1d1d1"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "KEYBOARD": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#c8c8c8"
@@ -100,7 +100,7 @@
             "#8a8a8a"
         ],
         "CHAT_BACKGROUND": [
-            "#1e1e1e"
+            "#1e1e1e", "#ededed"
         ]
     },
     "rawColors": {
