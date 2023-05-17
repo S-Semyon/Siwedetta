@@ -140,7 +140,8 @@
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#1e1e1e",
-            "#ededed"
+            "#ededed",
+            "#060607"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#1e1e1e",
@@ -194,7 +195,7 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#c8c8c8",
-            "#555555",
+            "#ededed",
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
