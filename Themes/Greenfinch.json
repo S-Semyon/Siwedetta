@@ -106,7 +106,8 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#1e1e1e",
-            "#ededed"
+            "#ededed",
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#1e1e1e",
@@ -115,7 +116,7 @@
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#262626",
-            "#d1d1d1",
+            "#ededed",
             "#111214"
         ],
         "BACKGROUND_TERTIARY": [
@@ -195,7 +196,7 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#c8c8c8",
-            "#ededed",
+            "#4c4c4c",
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
