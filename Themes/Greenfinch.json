@@ -73,7 +73,7 @@
             "#0b632a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0b632a"
+            "#00ce48"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#1e1e1e", "#ededed"
@@ -107,7 +107,7 @@
         "PRIMARY": "#1e1e1e",
         "PRIMARY_100": "#c9c9c9",
         "PRIMARY_200": "#8a8a8a",
-        "PRIMARY_300": "#00ce48",
+        "PRIMARY_300": "#FFce48",
         "PRIMARY_360": "#8a8a8a",
         "PRIMARY_400": "#00ce48",
         "PRIMARY_500": "#00ce48",
