@@ -56,7 +56,7 @@
         ],
         "HEADER_PRIMARY": [
             "#c9c9c9",
-            "#c9c9c9",
+            "#1a1a1a",
             "#c9c9c9"
         ],
         "HEADER_SECONDARY": [
@@ -189,7 +189,12 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#c8c8c8",
-            "#FFFF00",
+            "#ededed",
+            "#9c9c9c"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#c8c8c8",
+            "#555555",
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
@@ -199,7 +204,7 @@
         ],
         "CHANNELS_DEFAULT": [
             "#8a8a8a",
-            "#666666",
+            "#8a8a8a",
             "#8a8a8a"
         ],
         "CHAT_BACKGROUND": [
@@ -209,7 +214,6 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#1e1e1e",
         "PRIMARY_100": "#c9c9c9",
         "PRIMARY_200": "#8a8a8a",
         "PRIMARY_300": "#00ce48",
