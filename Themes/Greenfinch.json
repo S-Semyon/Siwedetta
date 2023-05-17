@@ -111,7 +111,7 @@
         ],
         "BACKGROUND_SECONDARY": [
             "#1e1e1e",
-            "#FF00ed",
+            "#ededed",
             "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
@@ -126,7 +126,7 @@
         ],
         "BACKGROUND_ACCENT": [
             "#00ce48",
-            "#0f8739",
+            "#0f8738",
             "#0b632a"
         ],
         "BACKGROUND_FLOATING": [
