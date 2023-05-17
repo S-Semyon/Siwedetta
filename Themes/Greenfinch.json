@@ -49,30 +49,25 @@
             "#00ab3c",
             "#ffffff"
         ],
-        "TEXT_BRAND": [
-            "#52cc7d",
-            "#00ab3c",
-            "#52cc7d"
-        ],
         "HEADER_PRIMARY": [
-            "#c9c9c9",
-            "#1a1a1a",
-            "#c9c9c9"
+            "#f2f3f5",
+            "#060607",
+            "#f2f3f5"
         ],
         "HEADER_SECONDARY": [
             "#8a8a8a",
-            "#8a8a8a",
+            "#4e5058",
             "#8a8a8a"
-        ],
-        "TEXT_NORMAL": [
-            "#c9c9c9",
-            "#1a1a1a",
-            "#c9c9c9"
         ],
         "TEXT_MUTED": [
-            "#8a8a8a",
-            "#363636",
-            "#8a8a8a"
+            "#949ba4",
+            "#5c5e66",
+            "#a5abb3"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1",
+            "#313338",
+            "#c4c9ce"
         ],
         "TEXT_DANGER": [
             "#ff003f",
@@ -106,22 +101,22 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#1e1e1e",
-            "#ededed",
+            "#ffffff",
             "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#1e1e1e",
-            "#ededed",
+            "#f2f3f5",
             "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#262626",
-            "#ededed",
+            "#ebedef",
             "#111214"
         ],
         "BACKGROUND_TERTIARY": [
             "#1e1e1e",
-            "#ededed",
+            "#e3e5e8",
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
@@ -131,17 +126,17 @@
         ],
         "BACKGROUND_FLOATING": [
             "#1e1e1e",
-            "#ededed",
+            "#FFFFFF",
             "#060607"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#1e1e1e",
-            "#ededed",
+            "#f9f9f9",
             "#060607"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#1e1e1e",
-            "#ededed",
+            "#ffffff",
             "#060607"
         ],
         "BACKGROUND_NESTED_FLOATING": [
@@ -191,13 +186,13 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#c8c8c8",
-            "#ededed",
-            "#9c9c9c"
+            "#ebedef",
+            "#060607"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#c8c8c8",
-            "#4c4c4c",
-            "#9c9c9c"
+            "#6d6f78",
+            "#80848e",
+            "#80848e"
         ],
         "CHANNEL_ICON": [
             "#c9c9c9",
@@ -211,7 +206,7 @@
         ],
         "CHAT_BACKGROUND": [
             "#1e1e1e",
-            "#ededed",
+            "#FFFFFF",
             "#060607"
         ]
     },
