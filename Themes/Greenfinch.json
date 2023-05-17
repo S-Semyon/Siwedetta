@@ -49,16 +49,6 @@
             "#00ab3c",
             "#ffffff"
         ],
-        "MENTION_BACKGROUND": [
-            "#00ab3c4d",
-            "#00ab3c26",
-            "#00ab3c4d"
-        ],
-        "MENTION_FOREGROUND": [
-            "#45b56c",
-            "#00ab3c",
-            "#45b56c"
-        ],
         "TEXT_BRAND": [
             "#52cc7d",
             "#00ab3c",
@@ -199,7 +189,7 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#c8c8c8",
-            "#b0b0b0",
+            "#FFFF00",
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
